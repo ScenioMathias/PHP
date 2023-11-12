@@ -112,7 +112,7 @@ _Escreva um programa que leia três números inteiros digitados pelo usuário e 
 
 ## _Exercício 3_
 
-_Escreva um programa que leia um caractere do usuário e verifique se é uma vogal_
+_Escreva um programa que leia um caractere do usuário e verifique se é uma vogal._
  
  ```shell
 <!DOCTYPE html>
@@ -162,7 +162,7 @@ _Escreva um programa que leia um caractere do usuário e verifique se é uma vog
 ```
 ## _Exercício 4_
 
-_Desenvolva um programa que leia um número inteiro e verifique se ele é primo_
+_Desenvolva um programa que leia um número inteiro e verifique se ele é primo._
  
  ```shell
 <!DOCTYPE html>
@@ -221,7 +221,7 @@ _Desenvolva um programa que leia um número inteiro e verifique se ele é primo_
 
 ## _Exercício 5_
 
-_Crie um programa que leia uma sequência de 5 números inteiros e imprima o maior e o menor valor_
+_Crie um programa que leia uma sequência de 5 números inteiros e imprima o maior e o menor valor._
  
  ```shell
 <!DOCTYPE html>
@@ -274,7 +274,7 @@ _Crie um programa que leia uma sequência de 5 números inteiros e imprima o mai
  ```
 ## _Exercício 6_
 
-_Crie um programa que leia uma sequência de 5 números inteiros e retorne apenas o segundo maior valor presente na sequência_
+_Crie um programa que leia uma sequência de 5 números inteiros e retorne apenas o segundo maior valor presente na sequência._
  
  ```shell
 <!DOCTYPE html>
@@ -325,7 +325,7 @@ _Crie um programa que leia uma sequência de 5 números inteiros e retorne apena
  ```
 ## _Exercício 7_
 
-_7)	Escreva um programa que solicite ao usuário um número inteiro positivo e exiba na tela todos os números pares de 0 até o número digitado_
+_Escreva um programa que solicite ao usuário um número inteiro positivo e exiba na tela todos os números pares de 0 até o número digitado._
  
  ```shell
 <!DOCTYPE html>
@@ -374,7 +374,7 @@ _7)	Escreva um programa que solicite ao usuário um número inteiro positivo e e
 ```
 ## _Exercício 8_
 
-_Escreva um programa que solicite ao usuário um número inteiro positivo e exiba na tela todos os números primos de 1 até o número digitado_
+_Escreva um programa que solicite ao usuário um número inteiro positivo e exiba na tela todos os números primos de 1 até o número digitado._
  
  ```shell
 
@@ -490,8 +490,7 @@ _Escreva um programa que solicite ao usuário um número inteiro positivo e calc
 ## _Exercício 10_
 
 _Escreva um programa que calcule a média de três notas e informe se o aluno foi aprovado, reprovado, ou se está em recuperação. Considere a média mínima
-para aprovação igual 7; média entre 5 e 6,99 recuperação, e média menor ou igual a 4,99 reprovado.
-_
+para aprovação igual 7; média entre 5 e 6,99 recuperação, e média menor ou igual a 4,99 reprovado._
  
  ```shell
 <!DOCTYPE html>
