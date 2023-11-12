@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ScenioMathias/APL-2/blob/main/ALP.png?raw=true" alt="smashupy" width="700"/>
 
-_Escreva um programa que leia um número digitado pelo usuário e imprima o seu dobro e o seu quadrado._
+_Desenvolva uma calculadora simples que permite ao usuário escolher o tipo de operação (um único tipo), digitar 2 valores para cálculo, e então exibir em tela o resultado da adição, subtração, multiplicação ou divisão dos valores digitados, de acordo com a opção do usuário._
 
  ```shell
 <?php
