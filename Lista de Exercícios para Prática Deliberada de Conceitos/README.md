@@ -2,8 +2,6 @@
 
 <img src="https://github.com/ScenioMathias/APL-2/blob/main/ALP.png?raw=true" alt="smashupy" width="700"/>
 
-## Anunciado das atividades 
-
 ## _Exercício 1_
 
 _Escreva um programa que leia um número digitado pelo usuário e imprima o seu dobro e o seu quadrado._
